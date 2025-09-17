@@ -1,0 +1,13 @@
+MODELOS DE AI GENERATIVA PARA CADA TIPO DE CONTEUDO
+
+Texto / Chat:
+ - GPT , Gemini, Claude, LLaMA, Groq, etc...
+
+Imagens:
+ - DALL E 3, Stable Diffusion, MidJourney, etc...  
+
+Audio:
+ - TSS, Whisper, ElevenLabs, etc...
+ 
+Video / Avatares:
+ - Sora, RunWay, Pika Labs, Stable Diffusion (Variante).
