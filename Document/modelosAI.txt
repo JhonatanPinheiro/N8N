@@ -11,3 +11,38 @@ Audio:
  
 Video / Avatares:
  - Sora, RunWay, Pika Labs, Stable Diffusion (Variante).
+
+Banco de Dados
+ ----Relacional
+        MySQL
+        PostgreSQL
+        Oracle Database
+        Microsoft SQL Server
+        MariaDB
+        SQLite
+ ----Nao Relacional
+        🗂 Documentos (JSON-like)
+            MongoDB
+            CouchDB
+            RavenDB
+        🔑 Chave-Valor
+            Redis
+            Amazon DynamoDB
+            Riak
+        📊 Largura de Colunas
+            Apache Cassandra
+            HBase
+            ScyllaDB
+        🔗 Grafos
+            Neo4j
+            ArangoDB
+            JanusGraph
+
+---- Bancos de Dados Vetoriais
+    Pinecone
+    Weaviate
+    Milvus
+    Vespa
+    Qdrant
+    FAISS (biblioteca do Facebook, usada para busca vetorial)
+    pgvector (extensão do PostgreSQL para vetores)
