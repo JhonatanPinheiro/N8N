@@ -1,4 +1,4 @@
-- Instalar o Docker
- - https://www.docker.com/products/docker-desktop/
- - Baixar a imagem: n8nio/n8n
- - Configurar as configuração de acordo com a imagem encontrada dentro do caminho Document/images_config/instacaoDoN8N
+https://chatgpt.com/g/g-lLMeSmBpY-tokenization?locale=en-US
+
+https://platform.openai.com/tokenizer
+
