@@ -2,3 +2,12 @@ https://chatgpt.com/g/g-lLMeSmBpY-tokenization?locale=en-US
 
 https://platform.openai.com/tokenizer
 
+https://www.wordsapi.com/
+
+API = o cliente faz uma requisição para o servidor quando quer algo (“puxa” os dados ou aciona uma ação). 
+Webhook = o servidor manda um dado automaticamente para o cliente quando algo acontece (“empurra” os dados quando o evento ocorre). 
+
+⚙ Exemplos 
+
+API: “me diga se há novos pedidos” → você chama a API.
+Webhook: “quando houver um novo pedido, me avisa” → o sistema envia um aviso pra você automaticamente.
