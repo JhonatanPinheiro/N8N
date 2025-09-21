@@ -21,6 +21,9 @@ Instalando e Configurando o ngrok
   ngrok http PORT
   ```
 
+  Exemplo: ngrok http http://localhost:5678/
+
+
 - Após executar o comando, o ngrok fornecerá uma URL pública (geralmente algo como http://randomstring.ngrok.io) que redireciona para o seu servidor local.
 - Você pode compartilhar essa URL com outras pessoas para que elas possam acessar seu servidor local.
 - O ngrok também oferece um painel de controle web acessível em http://localhost:4040, onde você pode monitorar o tráfego, inspecionar solicitações e respostas, e gerenciar seus túneis.
