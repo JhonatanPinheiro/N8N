@@ -1,0 +1,30 @@
+Oque é o ngrok?
+O ngrok é uma ferramenta que permite expor um servidor local para a internet de forma segura. Ele cria túneis seguros para o seu servidor local, permitindo que você compartilhe facilmente serviços em execução na sua máquina com outras pessoas ou acesse-os remotamente.
+
+Instalando e Configurando o ngrok
+
+- Acesse o site oficial do ngrok: https://ngrok.com/
+- Crie uma conta gratuita, se ainda não tiver uma.  
+- Faça o download do ngrok para o seu sistema operacional (Windows, macOS, Linux).
+- Extraia o arquivo baixado para um local de sua preferência.
+- Abra o terminal ou prompt de comando e navegue até o diretório onde você extraiu o ngrok.
+- Autentique sua conta ngrok usando o comando abaixo, substit
+-ituindo "YOUR_AUTH_TOKEN" pelo token fornecido na sua conta ngrok:
+  
+  ```
+  ngrok authtoken YOUR_AUTH_TOKEN
+  ```
+- Agora você está pronto para usar o ngrok.
+- Para expor um servidor local, use o comando abaixo, substituindo "PORT" pela porta em que seu servidor está rodando (por exemplo, 80 para HTTP, 443 para HTTPS, 3000 para Node.js, etc.):
+  
+  ```
+  ngrok http PORT
+  ```
+
+- Após executar o comando, o ngrok fornecerá uma URL pública (geralmente algo como http://randomstring.ngrok.io) que redireciona para o seu servidor local.
+- Você pode compartilhar essa URL com outras pessoas para que elas possam acessar seu servidor local.
+- O ngrok também oferece um painel de controle web acessível em http://localhost:4040, onde você pode monitorar o tráfego, inspecionar solicitações e respostas, e gerenciar seus túneis.
+- Para encerrar o túnel, basta interromper o processo do ngrok no terminal (geralmente pressionando Ctrl+C).
+- Lembre-se de que a versão gratuita do ngrok tem algumas limitações, como a duração dos túneis e o número de conexões simultâneas. Para recursos adicionais, você pode considerar planos pagos oferecidos pelo ngrok.
+- Agora você está pronto para usar o ngrok.
+

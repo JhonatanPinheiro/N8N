@@ -11,3 +11,12 @@ Webhook = o servidor manda um dado automaticamente para o cliente quando algo ac
 
 API: “me diga se há novos pedidos” → você chama a API.
 Webhook: “quando houver um novo pedido, me avisa” → o sistema envia um aviso pra você automaticamente.
+
+
+https://tally.so/
+
+
+https://ngrok.com/
+
+
+
