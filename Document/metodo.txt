@@ -1,0 +1,18 @@
+Oque é o metódo POST?
+O método POST é usado para enviar dados ao servidor para criar ou atualizar um recurso. Os dados enviados ao servidor com o método POST são incluídos no corpo da solicitação HTTP. É comumente usado em formulários da web, onde os usuários enviam informações que precisam ser processadas pelo servidor.
+
+Oque é metódo GET?
+O método GET é usado para solicitar dados de um servidor. Quando você faz uma solicitação GET, está pedindo ao servidor que envie de volta os dados especificados na URL. Os dados enviados ao servidor com o método GET são incluídos na URL da solicitação, geralmente como parâmetros de consulta. É comumente usado para recuperar informações sem alterar o estado do recurso no servidor.
+
+Oque é metódo DELETE?
+O método DELETE é usado para excluir um recurso específico no servidor. Quando você faz uma solicitação DELETE, está pedindo ao servidor que remova o recurso identificado pela URL da solicitação. É comumente usado em APIs RESTful para deletar dados ou registros existentes.
+
+Oque é metódo HEAD?
+O método HEAD é semelhante ao método GET, mas ele solicita apenas os cabeçalhos da resposta, sem o corpo. É usado para obter informações sobre um recurso, como metadados, sem transferir o recurso completo. Isso pode ser útil para verificar se um recurso existe ou para obter informações sobre ele, como o tipo de conteúdo ou a data de modificação, sem baixar todo o conteúdo.
+
+Oque é metódo PUT?
+O método PUT é usado para atualizar ou substituir um recurso existente no servidor. Quando você faz uma solicitação PUT, está enviando dados ao servidor para atualizar o recurso identificado pela URL da solicitação. Se o recurso não existir, o servidor pode criar um novo recurso com os dados fornecidos. É comumente usado em APIs RESTful para atualizar informações ou registros existentes.
+
+Oque é metódo PATH?
+O método PATCH é usado para aplicar modificações parciais a um recurso existente no servidor. Ao contrário do método PUT, que substitui completamente o recurso, o PATCH permite atualizar apenas os campos ou atributos específicos do recurso. É útil quando você deseja fazer pequenas alterações sem precisar enviar todo o recurso novamente. É comumente usado em APIs RESTful para atualizar partes de um recurso existente.
+
